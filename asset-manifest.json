@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "./static/css/main.53578b16.css",
+    "main.js": "./static/js/main.d6a22754.js",
+    "static/js/787.3a33840f.chunk.js": "./static/js/787.3a33840f.chunk.js",
+    "static/media/pepperoni.png": "./static/media/pepperoni.e8362d1d39da79f76679.png",
+    "static/media/FiveStan.png": "./static/media/FiveStan.69dd31b157926d31642d.png",
+    "static/media/FourStan.png": "./static/media/FourStan.45115478dd9270ab4178.png",
+    "static/media/firmennaya.png": "./static/media/firmennaya.087a42c25e6a5b5ee395.png",
+    "static/media/marianskaya.png": "./static/media/marianskaya.db3c7d028f9262e0660e.png",
+    "static/media/morskaya.png": "./static/media/morskaya.7fda390ce6791176bda0.png",
+    "static/media/Tristana.png": "./static/media/Tristana.34fece5f280b95aa52ce.png",
+    "static/media/Salsa.png": "./static/media/Salsa.9ba52b6134bc2033784a.png",
+    "static/media/Lemon.png": "./static/media/Lemon.cf7609cc8ccdde66279c.png",
+    "static/media/potato.png": "./static/media/potato.108eaf9641cba8e2c8a6.png",
+    "static/media/cheeze.png": "./static/media/cheeze.09b11e023a97dddf7f26.png",
+    "static/media/meat.png": "./static/media/meat.50fc347d8407ebe6a902.png",
+    "static/media/Chocolate.png": "./static/media/Chocolate.7902b2533a5b5435d014.png",
+    "static/media/Meridiana.png": "./static/media/Meridiana.6bdfa609d8949cca3184.png",
+    "static/media/strawberry.png": "./static/media/strawberry.252807ee3bf3cf917db3.png",
+    "static/media/boloncheze-sous.png": "./static/media/boloncheze-sous.7ef8134f20016aadb06a.png",
+    "index.html": "./index.html",
+    "main.53578b16.css.map": "./static/css/main.53578b16.css.map",
+    "main.d6a22754.js.map": "./static/js/main.d6a22754.js.map",
+    "787.3a33840f.chunk.js.map": "./static/js/787.3a33840f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53578b16.css",
+    "static/js/main.d6a22754.js"
+  ]
+}
